@@ -1,6 +1,3 @@
-
-
-
 const quiz = [
     {
         q:'Which month comes right before june ?',
